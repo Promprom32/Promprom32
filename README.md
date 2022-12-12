@@ -5,6 +5,6 @@
 - 📫 How to reach me ... 08143883613 or danielpromise564@gmail.com
 
 <!---
-Promprom32/Promprom32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Promprom32/Promprom32 is a repository that shows and displays all the tasks and jobs i have done learning web development.
 You can click the Preview link to take a look at your changes.
 --->
