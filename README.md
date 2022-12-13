@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Promprom32
+- 👋 Hi, I’m @Promprom32 promise daniel
 - 👀 I’m interested in writing code, front end development.learning javascript and its frameworks.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on different front end projects.
