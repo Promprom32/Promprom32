@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Promprom32 promise daniel
 - 👀 I’m interested in writing code, front end development.learning javascript and its frameworks.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on different front end projects.
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on different front-end projects.
 - 📫 How to reach me ... 08143883613 or danielpromise564@gmail.com
 
 <!---
